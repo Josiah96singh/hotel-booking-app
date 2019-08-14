@@ -4,7 +4,7 @@ import defaultImg from "../images/room-1.jpeg";
 import PropTypes from "prop-types";
 
 export default function Room({ room }) {
-  console.log(room);
+  // console.log(room);
   const { name, slug, images, price } = room;
 
   return (
