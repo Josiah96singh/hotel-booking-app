@@ -4,7 +4,9 @@ My goal was to get a deeper understanding of React and Context API with alternat
 
 ## Made with
 
--[React](https://reactjs.org/docs/getting-started.html) -[Context API](https://reactjs.org/docs/context.html) -[Contentful](https://www.contentful.com/)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Context API](https://reactjs.org/docs/context.html)
+- [Contentful](https://www.contentful.com/)
 
 ## Upcoming Features
 
