@@ -6,13 +6,13 @@ import Loading from "./Loading";
 
 function RoomContainer({ context }) {
   const { loading, sortedRooms, rooms } = context;
-  console.log(context);
+  // console.log(context);
   if (loading) {
     return <Loading />;
   }
   return (
     <div>
-      {/* <RoomFilter rooms={rooms} /> */}
+      <RoomFilter rooms={rooms} />
       <RoomList rooms={sortedRooms} />
     </div>
   );
